@@ -1,2 +1,2 @@
 # lintcode2023
-jiuzhang_algorithms
+jiuzhang_algorithms_practice_problems
